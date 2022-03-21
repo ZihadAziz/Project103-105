@@ -1,0 +1,16 @@
+.headingtag {
+    width: 400px;
+    height: 50px;
+    font-size: 30px;
+}
+body {
+    background-color: pink;
+}
+.listitem {
+    color: bisque;
+    font-size: 15px;
+}
+#camera {
+    height: 350;
+    width: 400;
+}
